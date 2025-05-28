@@ -1,5 +1,5 @@
 const API_KEY = 'd0r5h3pr01qn4tjgjokgd0r5h3pr01qn4tjgjol0'; 
-const SYMBOL = 'PETR4.SA';
+const SYMBOL = 'AAPL'; 
 const priceEl = document.getElementById('price');
 const timeEl = document.getElementById('timestamp');
 
