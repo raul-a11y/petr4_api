@@ -1,4 +1,4 @@
-const API_KEY = 'SUA_API_KEY_AQUI'; // ⬅️ Substitua aqui!
+const API_KEY = 'd0r5am1r01qn4tjgijp0d0r5am1r01qn4tjgijpg'; 
 const SYMBOL = 'PETR4.SA';
 const priceEl = document.getElementById('price');
 const timeEl = document.getElementById('timestamp');
