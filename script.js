@@ -11,7 +11,7 @@ async function fetchPrice() {
     const now = new Date();
     const time = now.toLocaleTimeString();
 
-    priceEl.textContent = `R$ ${data.c.toFixed(2)}`;
+    priceEl.textContent = `$ ${data.c.toFixed(2)}`;
     timeEl.textContent = time;
   } catch (error) {
     priceEl.textContent = 'Erro ao buscar cotação';
